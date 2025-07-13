@@ -1,15 +1,21 @@
-import React, { useState } from 'react';
-import './App.css'
-import Button from './components/Button'
-import TextInput from './components/TextInput';
+import './App.css';
+import { Routes, Route } from 'react-router-dom';
+import HomePage from './pages/HomePage';
+import SinglePlayer from './pages/SinglePlayer';
+import DualPlayer from './pages/DualPlayer';
+import Background from './components/Background';
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <TextInput/>
-      <Button text = "Submit"  onClickHandler = {()=>{console.log("Button Clicked")}}/>    
+      <Background>
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/singlePlayer" element={<SinglePlayer />} />
+          <Route path='/dualPlayer' element={<DualPlayer />} />
+        </Routes>
+      </Background>
     </>
   )
 }
