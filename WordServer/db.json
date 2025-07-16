@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "wordValue": "MANGO", "wordHint": "Fruit" },
+    { "wordValue": "BANANA", "wordHint": "Fruit" },
+    { "wordValue": "STEARING", "wordHint": "Car Part" },
+    { "wordValue": "ELEPHANT", "wordHint": "Animal" },
+    { "wordValue": "NEPAL", "wordHint": "Country" },
+    { "wordValue": "PYTHON", "wordHint": "Programming Language" },
+    { "wordValue": "LAPTOP", "wordHint": "Electronics" },
+    { "wordValue": "PINEAPPLE", "wordHint": "Fruit" },
+    { "wordValue": "TIGER", "wordHint": "Animal" },
+    { "wordValue": "ENGINE", "wordHint": "Car Part" },
+    { "wordValue": "CANADA", "wordHint": "Country" },
+    { "wordValue": "KEYBOARD", "wordHint": "Computer Accessory" },
+    { "wordValue": "MOUSE", "wordHint": "Computer Accessory" },
+    { "wordValue": "ZEBRA", "wordHint": "Animal" },
+    { "wordValue": "CARROT", "wordHint": "Vegetable" },
+    { "wordValue": "BROCCOLI", "wordHint": "Vegetable" },
+    { "wordValue": "TESLA", "wordHint": "Car Brand" },
+    { "wordValue": "WINDOWS", "wordHint": "Operating System" },
+    { "wordValue": "ANDROID", "wordHint": "Mobile OS" },
+    { "wordValue": "WHEEL", "wordHint": "Car Part" },
+    { "wordValue": "JAPAN", "wordHint": "Country" },
+    { "wordValue": "LION", "wordHint": "Animal" },
+    { "wordValue": "GRAPES", "wordHint": "Fruit" },
+    { "wordValue": "SPOILER", "wordHint": "Car Part" },
+    { "wordValue": "SWITZERLAND", "wordHint": "Country" }
+  ]
+}
